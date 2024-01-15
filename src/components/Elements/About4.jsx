@@ -72,7 +72,7 @@ class About4 extends React.Component {
                                 <div className="col-lg-7 col-md-7">
                                     <div className="m-about-containt text-black p-t80">
                                         <div className="m-about-years bg-moving" style={{backgroundImage:"url(" + bnr1 + ")"}}>
-                                            <span className="text-primary large-title">25</span>
+                                            <span className="text-primary large-title">15</span>
                                             <span className="large-title-info">Years of Experience</span>
                                         </div>
                                         <h3 className="font-weight-600">Improving quality of life with an integrated unified approach.</h3>
@@ -85,7 +85,7 @@ class About4 extends React.Component {
                                                 <h4 className="m-t0">SP Singh</h4>
                                                 <p>Architect &amp; Founder</p>
                                             </div>
-                                            <NavLink to="/about" className="site-button btn-effect m-b15"><span>Get in touch</span></NavLink>
+                                            <NavLink to="/contactus" className="site-button btn-effect m-b15"><span>Get in touch</span></NavLink>
                                         </div>
                                     </div>
                                 </div>

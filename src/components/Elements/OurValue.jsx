@@ -41,7 +41,7 @@ class OurValue extends React.Component {
                                             <div className="mt-separator">
                                                 <h2 className="text-uppercase sep-line-one "><span className="font-weight-300 text-primary">Our</span> Value</h2>
                                             </div>
-                                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.there are many 																				                                                     variations of passages of Ipsum available,</p>
+                                            <p>Welcome to a world where every brick sparks brilliance – your journey begins here</p>
                                         </div>
                                     </div>
                                     {/* TITLE END */}

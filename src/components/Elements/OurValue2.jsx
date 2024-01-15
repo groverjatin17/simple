@@ -37,7 +37,7 @@ class OurValue2 extends React.Component {
                                     {/* TITLE START */}
                                     <div className="video-part-2">
                                         <h3><span className="font-weight-100">We will provide</span> you the best work which you dreamt for!</h3>
-                                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.there are many 																				                                                     variations of passages of Ipsum available,</p>
+                                        <p>Welcome to a world where every brick sparks brilliance – your journey begins here</p>
                                         <ul className="list-angle-right anchor-line">
                                         <li><NavLink to={"/services"}>Construction Management</NavLink></li>
                                             <li><NavLink to={"/services"}>Pre Construction Services</NavLink></li>
