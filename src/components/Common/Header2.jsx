@@ -129,7 +129,7 @@ class Header2 extends React.Component {
                                                     <div className="icon-xs m-b20 scale-in-center"><i className="fa fa-envelope" /></div>
                                                     <div className="icon-content">
                                                         <h5 className="m-t0 font-weight-500">Email address</h5>
-                                                        <p>jbhconstruction@gmail.com</p>
+                                                        <p>jbhconstructions@gmail.com</p>
                                                     </div>
                                                 </div>
                                                 <div className="mt-icon-box-wraper center p-b30">
