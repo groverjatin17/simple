@@ -58,7 +58,7 @@ class Header3 extends React.Component {
                             <div className="row">
                                 <div className="mt-topbar-left clearfix">
                                     <ul className="list-unstyled e-p-bx pull-right">
-                                        <li><i className="fa fa-envelope" /> jbhconstructions@gmail.com</li>
+                                        <li><i className="fa fa-envelope" /> Constructionjbh@gmail.com</li>
                                         <li><i className="fa fa-phone" />(+1)-437-373-5200</li>
                                         <li><i className="fa fa-clock-o" />Mon-Sat 09:00AM-06:00PM</li>
                                     </ul>
@@ -115,7 +115,7 @@ class Header3 extends React.Component {
                                                     <div className="icon-xs m-b20 scale-in-center"><i className="fa fa-envelope" /></div>
                                                     <div className="icon-content">
                                                         <h5 className="m-t0 font-weight-500">Email address</h5>
-                                                        <p>jbhconstructions@gmail.com</p>
+                                                        <p>Constructionjbh@gmail.com</p>
                                                     </div>
                                                 </div>
                                                 <div className="mt-icon-box-wraper center p-b30">

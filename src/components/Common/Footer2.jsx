@@ -71,7 +71,7 @@ class Footer2 extends React.Component {
                                         <h4 className="widget-title">Contact Us</h4>
                                         <ul className="widget_address">
                                             {/* <li>34/7 Liverpool Street, Suite 636, London, United Kingdom</li> */}
-                                            <li>jbhconstructions@gmail.com</li>
+                                            <li>Constructionjbh@gmail.com</li>
                                             <li>(+1)-437-373-5200</li>
                                         </ul>
                                     </div>

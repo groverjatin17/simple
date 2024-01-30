@@ -133,7 +133,7 @@ class ContactUs extends React.Component {
                             <h5 className="m-t0 font-weight-500">
                               Email address
                             </h5>
-                            <p>jbhconstructions@gmail.com</p>
+                            <p>Constructionjbh@gmail.com</p>
                           </div>
                         </div>
                         <div className="mt-icon-box-wraper left">
