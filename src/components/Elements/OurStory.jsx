@@ -49,7 +49,7 @@ class OurStory extends React.Component {
                                 </div>
                                 <div className="col-md-8 col-sm-6">
                                     <div className="mt-box our-story-detail bg-moving bg-cover" style={{ backgroundImage: 'url(' + img2 + ')' }}>
-                                        <h4 className="text-uppercase m-b20">2011-12</h4>
+                                        <h4 className="text-uppercase m-b20">January</h4>
                                         <h4 className="m-b20">Eisenhower Memoria</h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. </p>
                                     </div>
@@ -65,7 +65,7 @@ class OurStory extends React.Component {
                                 </div>
                                 <div className="col-md-8 col-sm-6">
                                     <div className="mt-box our-story-detail bg-moving bg-cover"  style={{ backgroundImage: 'url(' + img2 + ')' }}>
-                                        <h4 className="text-uppercase m-b20">2013-14</h4>
+                                        <h4 className="text-uppercase m-b20">April</h4>
                                         <h4 className="m-b20">Columbia Sport Center</h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. </p>
                                     </div>
@@ -81,7 +81,7 @@ class OurStory extends React.Component {
                                 </div>
                                 <div className="col-md-8 col-sm-6">
                                     <div className="mt-box our-story-detail bg-moving bg-cover"  style={{ backgroundImage: 'url(' + img2 + ')' }}>
-                                        <h4 className="text-uppercase m-b20">2015-16</h4>
+                                        <h4 className="text-uppercase m-b20">October</h4>
                                         <h4 className="m-b20">Park Boathouse</h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. </p>
                                     </div>
@@ -97,7 +97,7 @@ class OurStory extends React.Component {
                                 </div>
                                 <div className="col-md-8 col-sm-6">
                                     <div className="mt-box our-story-detail bg-moving bg-cover"  style={{ backgroundImage: 'url(' + img2 + ')' }}>
-                                        <h4 className="text-uppercase m-b20">2017-18</h4>
+                                        <h4 className="text-uppercase m-b20">December</h4>
                                         <h4 className="m-b20">Museum Expansion</h4>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. </p>
                                     </div>

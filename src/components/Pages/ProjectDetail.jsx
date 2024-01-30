@@ -53,11 +53,11 @@ class ProjectDetail extends React.Component {
                                                 <div className="row">
                                                     <div className="col-md-12 m-b10">
                                                         <h4 className="text-uppercase font-weight-600 m-b10">Date</h4>
-                                                        <p>April 10, 2022</p>
+                                                        <p>December 10, 2023</p>
                                                     </div>
                                                     <div className="col-md-12 m-b10">
                                                         <h4 className="text-uppercase font-weight-600 m-b10">Client</h4>
-                                                        <p>Studio Massimo, Italy</p>
+                                                        <p>Bella Studios Inc</p>
                                                     </div>
                                                     <div className="col-md-12 m-b10">
                                                         <h4 className="text-uppercase font-weight-600 m-b10">Project type</h4>
@@ -65,11 +65,11 @@ class ProjectDetail extends React.Component {
                                                     </div>
                                                     <div className="col-md-12 m-b10">
                                                         <h4 className="text-uppercase font-weight-600 m-b10">Location</h4>
-                                                        <p>Mountain View CA 94043</p>
+                                                        <p>London, Ontario</p>
                                                     </div>
                                                     <div className="col-md-12 m-b10">
                                                         <h4 className="text-uppercase font-weight-600 m-b10">Year</h4>
-                                                        <p>2022</p>
+                                                        <p>2023</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -109,7 +109,7 @@ class ProjectDetail extends React.Component {
                         </div>
                     </div>
                     {/* SECTION CONTENT END  */}
-                    <SimilarProjects/>
+                    {/* <SimilarProjects/> */}
                 </div>
 
                 <div className="modal fade" id="myModal3" role="dialog">

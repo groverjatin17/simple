@@ -69,8 +69,8 @@ class About3 extends React.Component {
                                 <div className="col-lg-7 col-md-7">
                                     <div className="m-about-containt text-black p-t80">
                                         <div className="m-about-years bg-moving" style={{backgroundImage:"url(" + bnr1 + ")"}}>
-                                            <span className="text-primary large-title">25</span>
-                                            <span className="large-title-info">Years of Experience</span>
+                                            <span className="text-primary large-title">Extensive</span>
+                                            <span className="large-title-info">Experience in Construction</span>
                                         </div>
                                         <h3 className="font-weight-600">Improving quality of life with an integrated unified approach.</h3>
                                         <p>Dummy text is also used to demonstrate the appearance of different typefaces and layouts, and in general the content of dummy text is nonsensical. Due to its widespread use texts.  Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>

@@ -32,55 +32,55 @@ const projects = [
         width: 'col-md-3',
         filter: 'cat-6'
     },
-    {
-        image: require('./../../images/projects/portrait/pic4.jpg'),
-        title: 'Dream Workspace',
-        address: 'Pickering, Ontario',
-        width: 'col-md-3',
-        filter: 'cat-6'
-    },
-    {
-        image: require('./../../images/projects/portrait/pic5.jpg'),
-        title: 'Decore',
-        address: 'Peterburough, Ontario',
-        width: 'col-md-3',
-        filter: 'cat-3'
-    },
-    {
-        image: require('./../../images/projects/portrait/pic6.jpg'),
-        title: 'Modern Decoration',
-        address: 'London, Ontario',
-        width: 'col-md-3',
-        filter: 'cat-3'
-    },
-    {
-        image: require('./../../images/projects/portrait/pic7.jpg'),
-        title: 'Bathroom',
-        address: 'North House',
-        width: 'col-md-3',
-        filter: 'cat-1'
-    },
-    {
-        image: require('./../../images/projects/pic-l-5.jpg'),
-        title: 'Lamp decoration',
-        address: 'Peterburough, Ontario',
-        width: 'col-md-6',
-        filter: 'cat-6'
-    },
-    {
-        image: require('./../../images/projects/pic-1.jpg'),
-        title: 'Building house',
-        address: 'Toronto, Ontario',
-        width: 'col-md-3',
-        filter: 'cat-5'
-    },
-    {
-        image: require('./../../images/projects/pic-2.jpg'),
-        title: 'Spa residence',
-        address: 'Pickering, Ontario',
-        width: 'col-md-3',
-        filter: 'cat-4'
-    }
+    // {
+    //     image: require('./../../images/projects/portrait/pic4.jpg'),
+    //     title: 'Dream Workspace',
+    //     address: 'Pickering, Ontario',
+    //     width: 'col-md-3',
+    //     filter: 'cat-6'
+    // },
+    // {
+    //     image: require('./../../images/projects/portrait/pic5.jpg'),
+    //     title: 'Decore',
+    //     address: 'Peterburough, Ontario',
+    //     width: 'col-md-3',
+    //     filter: 'cat-3'
+    // },
+    // {
+    //     image: require('./../../images/projects/portrait/pic6.jpg'),
+    //     title: 'Modern Decoration',
+    //     address: 'London, Ontario',
+    //     width: 'col-md-3',
+    //     filter: 'cat-3'
+    // },
+    // {
+    //     image: require('./../../images/projects/portrait/pic7.jpg'),
+    //     title: 'Bathroom',
+    //     address: 'North House',
+    //     width: 'col-md-3',
+    //     filter: 'cat-1'
+    // },
+    // {
+    //     image: require('./../../images/projects/pic-l-5.jpg'),
+    //     title: 'Lamp decoration',
+    //     address: 'Peterburough, Ontario',
+    //     width: 'col-md-6',
+    //     filter: 'cat-6'
+    // },
+    // {
+    //     image: require('./../../images/projects/pic-1.jpg'),
+    //     title: 'Building house',
+    //     address: 'Toronto, Ontario',
+    //     width: 'col-md-3',
+    //     filter: 'cat-5'
+    // },
+    // {
+    //     image: require('./../../images/projects/pic-2.jpg'),
+    //     title: 'Spa residence',
+    //     address: 'Pickering, Ontario',
+    //     width: 'col-md-3',
+    //     filter: 'cat-4'
+    // }
 ]
 
 class OurProject extends React.Component {

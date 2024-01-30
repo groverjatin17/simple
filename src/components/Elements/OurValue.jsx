@@ -74,22 +74,22 @@ class OurValue extends React.Component {
                                 </div>
                                 <div className="col-md-3 col-sm-6">
                                     <div className="mt-count m-b30 text-white mt-icon-box-wraper center  bg-dark p-a20">
-                                        <div className="counter font-30 font-weight-800 m-b15 text-primary"><CountUp end={450} duration={5} /></div>
+                                        <div className="counter font-30 font-weight-800 m-b15 text-primary"><CountUp end={21} duration={5} /></div>
                                         <h4 className="m-tb0">Active Experts</h4>
                                     </div>
                                     <div className="mt-count m-b30 text-white mt-icon-box-wraper center  bg-dark p-a20">
-                                        <div className="counter font-30 font-weight-800 m-b15  text-primary"><CountUp end={670} duration={5} /></div>
+                                        <div className="counter font-30 font-weight-800 m-b15  text-primary"><CountUp end={41} duration={5} /></div>
                                         <h4 className="m-tb0">Satisfied Clients</h4>
                                     </div>
                                     <div className="mt-count m-b30 text-white mt-icon-box-wraper center  bg-dark p-a20">
-                                        <div className="counter font-30 font-weight-800 m-b15 text-primary"><CountUp end={1500} duration={5} /></div>
+                                        <div className="counter font-30 font-weight-800 m-b15 text-primary"><CountUp end={87} duration={5} /></div>
                                         <h4 className="m-tb0">Project Complete</h4>
                                     </div>
                                 </div>
                                 <div className="col-md-5 col-sm-6">
                                     <div className="p-b0">
                                         <div className="mt-box">
-                                            <h3 className="m-t0"><span className="font-weight-100"> We have</span><span className="text-primary"> 15 years</span> experience in construction</h3>
+                                            <h3 className="m-t0"><span className="text-primary">Extensive</span> experience in construction</h3>
                                         </div>
                                         <span className="progressText text-black"><b>Architecher</b></span>
                                         <div className="progress mt-probar-1  m-b30 m-t10">
